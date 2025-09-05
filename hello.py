@@ -5,3 +5,4 @@ print("man it would be cooler if this was in java wouldn't it?? hmmm? or javascr
 for i in range(10):
 	print("a")
 	print("A")
+	print(" ahhahahah")
